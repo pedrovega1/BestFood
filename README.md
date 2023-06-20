@@ -1,3 +1,24 @@
+Key Features of the Project:
+1. Display of Food Items: Users can view a list of different food items available in the fast-food restaurant.
+2. Type Filtering: Users can select a type of dish (burgers, pizza, salads, chicken) and filter the list to view only the items of the selected type.
+3. Price Filtering: Users can choose a price range (5-10$, 7-12$, 8-15$, 25$) and filter the list of dishes to see only those that fall within the selected price range.
+4. Interactive Elements: Users can hover over menu items to see an effect that scales up the size, providing a more engaging interaction.
+
+Technologies Used in the Project:
+- React: The React library was used to develop the user interface and manage the application's state.
+- JavaScript: The project is written in JavaScript, the programming language commonly used in React applications.
+- CSS: CSS was used for styling the components and creating a visually appealing user interface.
+
+Project Benefits:
+- User-Friendly: The application's user interface is simple and intuitive, making navigation and menu filtering easy for users.
+- Enhanced Viewing Experience: Thanks to the optimized layout and design, users can effortlessly browse and select dishes that match their preferences.
+- Responsiveness: The application design is responsive, adapting to different devices and screen sizes, ensuring a seamless user experience across desktops, tablets, and mobile devices.
+
+FastFood serves as an example project showcasing my web development skills using React and other modern technologies. It is a valuable addition to my portfolio, demonstrating my ability to create interactive web applications with a user-friendly interface.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
